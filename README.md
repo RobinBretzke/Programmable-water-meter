@@ -3,7 +3,7 @@
 This project aims to create a programmable water meter. 
 
 ## Used parts: 
-Item | qty| link
+Item | qty.| link
 ---|---|---
 Gardena cuoupling | 2 | www.amazon.de/dp/B01E3MUOH4?ref=ppx_yo2ov_dt_b_fed_asin_title
 Electromagnetic valve | 1 | https://www.amazon.de/dp/B085BYC9X2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
