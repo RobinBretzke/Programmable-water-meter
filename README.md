@@ -1,7 +1,8 @@
 # Programmable-water-meter 
 
 >[!important]
->The CAD files require significant updates, which will be completed shortly.
+>The CAD files require significant updates, which will be completed shortly.<br>
+>Arduino code and PCB Layout comming soon 
 
 
 ## Partlist: 
