@@ -8,6 +8,7 @@
 Item | qty.| link
 ---|---|---
 Gardena cuoupling | 2 | www.amazon.de/dp/B01E3MUOH4?ref=ppx_yo2ov_dt_b_fed_asin_title
+Flow sensor | 1 | https://www.amazon.de/-/en/TOPINCN-Sensor-Switch-Copper-Effect/dp/B0995PM8ZR/ref=sr_1_21?crid=2EVVRC2PN3TLU&dib=eyJ2IjoiMSJ9.y8HN1IBEflR142VhDE9ZKi-wtxuQrJRm3xZzoUFJtRYhMubwsNMIoWOUDuNSySduua4ruMD1smPhkq5gF4RDnMA1Ur5Ya46W93PRkmzgjz95pu4H2YY5_FA-9KKbxiOWzi6ZjRvH1z0IbUL-FqGOB8KGPRWFMNEkWUxbXwoLL_CqAAippDI_oT5ULBg4hgc3ang8f9f4u5BeEnDwqIPmDI82lRlEzL_WFwNvq51ZbKA.9gFFt29FLJBhyt_pY-ZvxZtPlxbAyH0b5Bk_YNHLQ_o&dib_tag=se&keywords=wasser+durchfluss+messer&qid=1730022578&sprefix=wasser+durchfluss+mess%2Caps%2C118&sr=8-21
 Electromagnetic valve | 1 | https://www.amazon.de/dp/B085BYC9X2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 Ball valve | 1 | https://www.amazon.de/dp/B07XJW94X4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 Push button | 3 | https://www.amazon.de/dp/B08L49F7DV?ref=ppx_yo2ov_dt_b_fed_asin_title
