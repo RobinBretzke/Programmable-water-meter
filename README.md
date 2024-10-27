@@ -1,5 +1,9 @@
 # Programmable-water-meter 
 
+>[!important]
+>CAD files need some major changes. Will be updated soon
+
+
 ## Partlist: 
 Item | qty.| link
 ---|---|---
