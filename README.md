@@ -1,7 +1,7 @@
 # Programmable-water-meter 
 
 >[!important]
->CAD files need some major changes. Will be updated soon
+>The CAD files require significant updates, which will be completed shortly.
 
 
 ## Partlist: 
